@@ -80,10 +80,9 @@ export class Punto{
 
     }
 
-    //calcularMasCercano(puntos: Punto[]):Punto{
+    //calcularMasCercano(puntos: Punto[]):Punto{}
+       
 
-        
-
-    }
+    
 
 }
